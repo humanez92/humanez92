@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Artificial intelligence specialization**
 
-- 👨‍💻 All of my projects are available at [https://github.com/wespitia9](https://github.com/wespitia9)
+- 👨‍💻 All of my projects are available at [https://github.com/humanez92](https://github.com/humanez92)
 
 - 💬 Ask me about **JavaScript, PHP, Python, Sql, React, Node js, Express js, NoSql, HTML, Bootstrap, Tableau, GitHub, Hadoop, Apache Hive, Apache Spark, Docker**
 
